@@ -1,4 +1,4 @@
-# gll_app
+# Post Management App
 
 Post management application
 
